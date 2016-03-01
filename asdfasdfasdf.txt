@@ -1,0 +1,70 @@
+Frontal TOL:
+- Landings y Homes
+- Proceso de venta:
+	- Tarifas
+	- Dispositivos y Fichas
+	- Cualificación / Validación
+	- Cotizador
+	- Mejor Oferta
+	- Cesta
+	- Solicitud Datos (checkout)
+	- Confirmación
+- Seguimiento del Pedido
+
+
+Frontal BO:
+- Landings / Homes
+- Gestión de Pedidos FO para Agentes
+- Gestión de Pedidos BO para Agentes
+- Estado del Pedido
+- Gestión Tareas y estados de excepción
+
+
+Gestor de Oferta:
+- Terminales
+- Promociones
+- Códigos promocionales
+- Tarifas
+- Productos/Paquetes
+- Banners / Popups
+- SVAs
+- Productos recomendados
+- ...
+
+
+Gestor de Stocks:
+- 
+
+
+Validaciones  / Cualificación
+
+
+Distribuidores y Agencias:
+- Perfiles de acceso
+
+
+Citas y Logística:
+- Citas
+- Calendario
+- Ventanas de Cambio
+- Códigos postales
+- Entregas Logísticas
+
+Gestor de Comunicaciones
+
+Gestión de Pedidos:
+- Provisión
+- Seguimiento del Pedido
+
+Gestión de Pagos y Financiación
+
+Modulo Clientes y NLS
+
+Gestión de Leads
+
+
+
+
+
+
+
