@@ -3,27 +3,27 @@ Frontal TOL:
 - Proceso de venta:
 	- Tarifas
 	- Dispositivos y Fichas
-	- Cualificaci髇 / Validaci髇
+	- Cualificaci贸n / Validaci贸n
 	- Cotizador
 	- Mejor Oferta
 	- Cesta
 	- Solicitud Datos (checkout)
-	- Confirmaci髇
+	- Confirmaci贸n
 - Seguimiento del Pedido
 
 
 Frontal BO:
 - Landings / Homes
-- Gesti髇 de Pedidos FO para Agentes
-- Gesti髇 de Pedidos BO para Agentes
+- Gesti贸n de Pedidos FO para Agentes
+- Gesti贸n de Pedidos BO para Agentes
 - Estado del Pedido
-- Gesti髇 Tareas y estados de excepci髇
+- Gesti贸n Tareas y estados de excepci贸n
 
 
 Gestor de Oferta:
 - Terminales
 - Promociones
-- C骴igos promocionales
+- C贸digos promocionales
 - Tarifas
 - Productos/Paquetes
 - Banners / Popups
@@ -36,31 +36,31 @@ Gestor de Stocks:
 - 
 
 
-Validaciones  / Cualificaci髇
+Validaciones  / Cualificaci贸n
 
 
 Distribuidores y Agencias:
 - Perfiles de acceso
 
 
-Citas y Log韘tica:
+Citas y Log铆stica:
 - Citas
 - Calendario
 - Ventanas de Cambio
-- C骴igos postales
-- Entregas Log韘ticas
+- C贸digos postales
+- Entregas Log铆sticas
 
 Gestor de Comunicaciones
 
-Gesti髇 de Pedidos:
-- Provisi髇
+Gesti贸n de Pedidos:
+- Provisi贸n
 - Seguimiento del Pedido
 
-Gesti髇 de Pagos y Financiaci髇
+Gesti贸n de Pagos y Financiaci贸n
 
 Modulo Clientes y NLS
 
-Gesti髇 de Leads
+Gesti贸n de Leads
 
 
 
@@ -68,3 +68,4 @@ Gesti髇 de Leads
 
 
 
+asdfasfsafd
